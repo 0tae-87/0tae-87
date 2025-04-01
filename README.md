@@ -1,16 +1,33 @@
-## Hi there 👋
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:fa0000,100:e2fc1d&height=120&text=ERROR&animation=blink&fontColor=000000&fontSize=40" />
+</div>
 
-<!--
-**0tae-87/0tae-87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hello!  
 
-Here are some ideas to get you started:
+안녕하세요.  
+세상은 넓고, 천재는 많고, 배울 것도 많네요.  
+열심히 하겠습니다.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hello.  
+The world is vast,  
+there are many geniuses,  
+and there is so much to learn.  
+I will do my best.  
+
+---
+
+## 🚀 About Me  
+- 🤔 I’m looking for help with **ROS2, Python, and C++**  
+- 💬 Ask me about **good restaurants in Busan** 🍜  
+
+---
+
+## 🧑‍💻 Contact Me  
+<div align="center">
+    <a href="https://www.instagram.com/o_tae87/" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
+    </a>
+    <a href="mailto:young86429904@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+    </a>
+</div>
