@@ -9,7 +9,7 @@
 열심히 하겠습니다.  
 
 Hello.  
-The world is vast,  
+The world is wide,  
 there are many geniuses,  
 and there is so much to learn.  
 I will do my best.  
