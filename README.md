@@ -32,5 +32,3 @@ I will do my best.
     </a>
 </div>
 
-
-<iframe src="https://github.com/sponsors/0tae-87/button" title="Sponsor 0tae-87" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
