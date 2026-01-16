@@ -42,9 +42,6 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=0tae-87&theme=radical&hide_border=true" alt="0tae-87's Streak" />
-    <br/>
-    <br/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0tae-87&theme=radical" alt="0tae-87's Profile Summary" />
     <br/>
     <br/>
