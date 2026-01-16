@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/NVIDIA%20Isaac%20Sim-76B900?style=flat-square&logo=Nvidia&logoColor=white">
     <img src="https://img.shields.io/badge/Gazebo-FFAB40?style=flat-square&logo=Gazebo&logoColor=white">
     <img src="https://img.shields.io/badge/MoveIt-22314E?style=flat-square&logo=ROS&logoColor=white">
-    <img src="https://img.shields.io/badge/PyBullet-FF6F00?style=flat-square&logo=Open-Source-Initiative&logoColor=white">
+    <img src="https://img.shields.io/badge/PyBullet-3776AB?style=flat-square&logo=Python&logoColor=white">
 </div>
 
 **Computer Vision & Math**
@@ -39,18 +39,25 @@
 
 ---
 
+
 ### 📊 GitHub Stats
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=0tae-87&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0tae-87&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=0tae-87&theme=radical&hide_border=true" alt="0tae-87's Streak" />
+    <br/>
+    <br/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0tae-87&theme=radical" alt="0tae-87's Profile Summary" />
+    <br/>
+    <br/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0tae-87&theme=radical" alt="0tae-87's Overall Stats" />
 </div>
+
 
 
 ---
 
 ### 🚀 About Me  
 - 🎓 **Focusing on**: Robotics Control & Computer Vision (Sim2Real)
-- 🏁 **Goal**: 무사 졸업...
+- 🏁 **Goal**: 무사 졸업...🙏
 
 ---
 
