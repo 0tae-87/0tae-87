@@ -40,19 +40,6 @@
 
 ---
 
-
-### 📊 GitHub Stats
-<div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0tae-87&theme=radical" alt="0tae-87's Profile Summary" />
-    <br/>
-    <br/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0tae-87&theme=radical" alt="0tae-87's Overall Stats" />
-</div>
-
-
-
----
-
 ### 🚀 About Me  
 - 🎓 **Focusing on**: Robotics Control & Computer Vision (Sim2Real
 - 📝 **Latest Work**: [제한된 환경에서의 로봇 조작을 위한 포인트 클라우드 신뢰도 기반 파지 계획](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12495517) (KSPE 2025)
