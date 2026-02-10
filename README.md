@@ -41,7 +41,7 @@
 ---
 
 ### 🚀 About Me  
-- 🎓 **Focusing on**: Robotics Control & Computer Vision (Sim2Real
+- 🎓 **Focusing on**: Robotics Control & Computer Vision (Sim2Real)
 - 📝 **Latest Work**: [제한된 환경에서의 로봇 조작을 위한 포인트 클라우드 신뢰도 기반 파지 계획](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12495517) (KSPE 2025)
 - 🏁 **Goal**: 무사 졸업...🙏
 
