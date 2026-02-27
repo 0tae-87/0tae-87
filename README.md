@@ -5,7 +5,7 @@
 ## 👋 Hello!
 
 
-> *Everything works in simulation, except the real robot.*
+> *I am an alchemist. Converting caffeine into a Master’s degree.*
 >  <br/>
 > 🤖 로봇, 제어, 컴퓨터 비전과 고군분투 중인 석사생입니다.
 
@@ -20,11 +20,13 @@
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white">
     <img src="https://img.shields.io/badge/C++ (Learning)-00599C?style=flat-square&logo=cplusplus&logoColor=white">
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
     <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=Nvidia&logoColor=white">
 </div>
 
 **Simulation & Control**
 <div align="left">
+    <img src="https://img.shields.io/badge/MuJoCo-EF5350?style=flat-square&logo=Mojo&logoColor=white">
     <img src="https://img.shields.io/badge/NVIDIA%20Isaac%20Sim-76B900?style=flat-square&logo=Nvidia&logoColor=white">
     <img src="https://img.shields.io/badge/Gazebo-FFAB40?style=flat-square&logo=Gazebo&logoColor=white">
     <img src="https://img.shields.io/badge/MoveIt-22314E?style=flat-square&logo=ROS&logoColor=white">
@@ -37,11 +39,10 @@
     <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white">
     <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=SciPy&logoColor=white">
 </div>
-
 ---
 
 ### 🚀 About Me  
-- 🎓 **Focusing on**: Robotics Control & Computer Vision (Sim2Real)
+- 🎓 **Focusing on**: Robotics Control & Computer Vision 
 - 📝 **Latest Work**: [제한된 환경에서의 로봇 조작을 위한 포인트 클라우드 신뢰도 기반 파지 계획](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12495517) (KSPE 2025)
 - 🏁 **Goal**: 무사 졸업...🙏
 
