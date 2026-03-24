@@ -5,7 +5,7 @@
 ## 👋 Hello!
 
 
-> *I am an alchemist. Converting caffeine into a Master’s degree.*
+> *Master’s student researching perception-driven robotic manipulation*
 >  <br/>
 > 🤖 로봇, 제어, 컴퓨터 비전과 고군분투 중인 석사생입니다.
 
