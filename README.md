@@ -51,6 +51,9 @@
 
 ### 🧑‍💻 Contact Me  
 <div align="center">
+    <a href="https://www.linkedin.com/in/youngtae-choi-b276ba350/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white">
+    </a>
     <a href="https://www.instagram.com/o_tae87/" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
     </a>
