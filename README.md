@@ -4,10 +4,8 @@
 
 ## 👋 Hello!
 
-
-> *Master’s student researching perception-driven robotic manipulation*
+> 🤖*Master’s student researching perception-driven robotic manipulation*
 >  <br/>
-> 🤖 로봇, 제어, 컴퓨터 비전과 고군분투 중인 석사생입니다.
 
 ---
 
@@ -44,7 +42,9 @@
 
 ### 🚀 About Me  
 - 🎓 **Focusing on**: Robotics Control & Computer Vision 
-- 📝 **Latest Work**: [부분 포인트 클라우드 복원과 물리 기반 파지 선별을 이용한 안정적인 로봇 파지 기법](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12495517) (KSPE 2025)
+- 📝 **Latest Work**: [안전한 로봇 파지를 위한 Monte Carlo Dropout 기반 포인트 클라우드 완성 네트워크의 불확실성 측정 기법](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12873741) (KSPE 2026)
+- 📚 **Selected Publications**: 
+  - [부분 포인트 클라우드 복원과 물리 기반 파지 선별을 이용한 안정적인 로봇 파지 기법](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12495517) (KSPE 2025)
 - 🏁 **Goal**: 무사 졸업...🙏
 
 ---
