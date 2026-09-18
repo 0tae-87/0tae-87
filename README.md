@@ -42,8 +42,9 @@
 
 ### 🚀 About Me  
 - 🎓 **Focusing on**: Robotics Control & Computer Vision 
-- 📝 **Latest Work**: [안전한 로봇 파지를 위한 Monte Carlo Dropout 기반 포인트 클라우드 완성 네트워크의 불확실성 측정 기법](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12873741) (KSPE 2026)
-- 📚 **Selected Publications**: 
+- 📝 **Latest Work**: [부분 포인트 클라우드에서의 Deep Ensembles와 TTA를 활용한 불확실성 인식 기반의 안전한 파지 생성](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12952172) (ICROS 2026)
+- 📚 **Previous Work**: 
+  - [안전한 로봇 파지를 위한 Monte Carlo Dropout 기반 포인트 클라우드 완성 네트워크의 불확실성 측정 기법](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12873741) (KSPE 2026)
   - [부분 포인트 클라우드 복원과 물리 기반 파지 선별을 이용한 안정적인 로봇 파지 기법](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12495517) (KSPE 2025)
 - 🏁 **Goal**: 무사 졸업...🙏
 
